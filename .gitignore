@@ -23,7 +23,7 @@ env/
 .vscode/
 .idea/
 
-# Coverage
+# Coveragegit status
 .coverage
 htmlcov/
 
